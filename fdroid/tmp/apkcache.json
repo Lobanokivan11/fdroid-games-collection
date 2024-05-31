@@ -85,5 +85,68 @@
     "apkName": "an2.apk",
     "icon": "com.gameloft.android.GAND.GloftAN2P.10900.png",
     "added": 1717161507.158183
+  },
+  "CardShark.apk": {
+    "hash": "4374a883a1ab6ed8fe60f116549772f221540f44fb6d2423ffaf8679354c7407",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "com.android.vending.CHECK_LICENSE",
+        null
+      ],
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "android.hardware.touchscreen"
+    ],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "120": "res/mipmap-ldpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "com.easy8.cardshark.32.png",
+      "480": "com.easy8.cardshark.32.png",
+      "320": "com.easy8.cardshark.32.png",
+      "240": "com.easy8.cardshark.32.png",
+      "160": "com.easy8.cardshark.32.png",
+      "120": "com.easy8.cardshark.32.png",
+      "0": "com.easy8.cardshark.32.png"
+    },
+    "antiFeatures": [],
+    "packageName": "com.easy8.cardshark",
+    "versionCode": 32,
+    "name": "CardShark",
+    "versionName": "9.0",
+    "minSdkVersion": 17,
+    "targetSdkVersion": 25,
+    "nativecode": [
+      "armeabi",
+      "armeabi-v7a",
+      "mips",
+      "x86"
+    ],
+    "sig": "12226275107ac7d6d7196db2e4591588",
+    "signer": "e66033000dc6b8b93e1d487d01346c326ff79573ef983e5ad52e8362652e94aa",
+    "size": 28361492,
+    "apkName": "CardShark.apk",
+    "icon": "com.easy8.cardshark.32.png",
+    "added": 1717163096.593657
   }
 }
