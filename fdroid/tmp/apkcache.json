@@ -1,0 +1,87 @@
+{
+  "METADATA_VERSION": 20002,
+  "allow_disabled_algorithms": false,
+  "an2.apk": {
+    "hash": "607f45e3ebd3388f75cb26731ed0fba645b82a778baf3bbf4e154ffddbc3bc68",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.REQUEST_INSTALL_PACKAGES",
+        null
+      ],
+      [
+        "glshare.permission.ACCESS_SHARED_DATA",
+        null
+      ],
+      [
+        "android.permission.GET_TASKS",
+        null
+      ],
+      [
+        "com.google.android.c2dm.permission.RECEIVE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "com.gameloft.android.GAND.GloftAN2P.10900.png",
+      "0": "com.gameloft.android.GAND.GloftAN2P.10900.png"
+    },
+    "antiFeatures": [],
+    "packageName": "com.gameloft.android.GAND.GloftAN2P",
+    "versionCode": 10900,
+    "name": "Asphalt Nitro 2",
+    "versionName": "1.0.9",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "nativecode": [
+      "armeabi-v7a"
+    ],
+    "sig": "0ece0a8d5cd957b82cfdfb08b9fbc41a",
+    "signer": "1ccecacceb9068e7ac83c88f088069a8019cb25a07bb4b6a5f69afdceff53eb1",
+    "size": 56292917,
+    "apkName": "an2.apk",
+    "icon": "com.gameloft.android.GAND.GloftAN2P.10900.png",
+    "added": 1717158937.557982
+  }
+}
